@@ -23,33 +23,25 @@ Payment Page
 
 ## 🖼️ Screenshots
 1.SPLASH SCREEN
- 
+ <img width="428" height="926" alt="iPhone 14 Plus - 5" src="https://github.com/user-attachments/assets/b2765fad-6e0d-43b7-866f-54a37fbe68fe" />
+
 2.Home screen
-1 
-3.BOOKING SCREEN
+<img width="428" height="926" alt="iPhone 14 Plus - 2" src="https://github.com/user-attachments/assets/9584c6b5-498a-43ef-b675-7aca8c96bdee" />
+
+
+3.Destination detail screen
+<img width="428" height="917" alt="iPhone 14 Plus - 3" src="https://github.com/user-attachments/assets/93362eda-1ed7-4062-bde1-65749dfb468e" />
+
+
+4.BOOKING SCREEN
+<img width="428" height="926" alt="iPhone 14 Plus - 7" src="https://github.com/user-attachments/assets/57546b4c-42d8-4204-a344-54845f6143e2" />
+
+
+5..Booking Success screen
+<img width="428" height="926" alt="iPhone 14 Plus - 4" src="https://github.com/user-attachments/assets/931d28c5-2017-421e-b87b-3aadc58c28ec" />
+
 
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-4.PAYMENT SCREEN
-
- 
-
-
 ## 🎨 Design Highlights
 
  Consistent White and blue color theme across all screens 
@@ -91,3 +83,6 @@ Design Elements
 ## 📜 License
 
 This project is created for educational purposes only.
+THANK YOU!
+
+Thank you for your time and attention.
